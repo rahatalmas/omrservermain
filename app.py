@@ -16,7 +16,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': '',
+    'password': 'LETScode5599$',
     'database': 'moji_main'
 }
 
